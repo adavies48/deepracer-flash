@@ -11,5 +11,5 @@
   "num_epochs": 10,
   "stack_size": 1,
   "term_cond_avg_score": 35000.0,
-  "term_cond_max_episodes": 100000
+  "term_cond_max_episodes": 800000
 }
